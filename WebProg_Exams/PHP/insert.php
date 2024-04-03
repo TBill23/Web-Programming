@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Ευστάθιος Ιωσηφίδης - iis21027</title>
+	<title>Βασίλειος Τσέλιος - iis21027</title>
 	<style>
 	.error {
 		color: #FF0000;
@@ -72,7 +72,7 @@ function test_input($data) {
 
 <a href="index.php"> Αρχική </a><br>
 <a href="view.php"> Εμφάνιση </a><br><br><br>
-<h1>Ευστάθιος Ιωσηφίδης - iis21027</h1>
+<h1>Βασίλειος Τσέλιος - iis21027</h1>
 </body>
 </html>
 

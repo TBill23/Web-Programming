@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<title>Ευστάθιος Ιωσηφίδης - iis21027</title>
+	<title>Βασίλειος Τσέλιος - iis20127</title>
 </head>
     <body>
         <a href="view.php"> Εμφάνιση </a><br>
         <a href="insert.php"> Καταχώριση </a><br><br><br>
-		<h1>Ευστάθιος Ιωσηφίδης - iis21027</h1>
+		<h1>Βασίλειος Τσέλιος- iis20127</h1>
     </body>
 </html>
 
